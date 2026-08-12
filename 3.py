@@ -1,0 +1,8 @@
+print("Hello world")
+print('hello world')
+print('hello " world')
+print("hello \n world")
+print("hello",5,"abhinav")
+print("hello",5,"abhinav", sep ="-")
+print("hello", end = "$")
+print("world")
