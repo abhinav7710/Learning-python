@@ -6,4 +6,4 @@ if a > 0:
 elif  a == 0:
     print("The given integer is zero")
 else:
-    print("The given integer is negative")        
+    print("The given integer is negative")   
