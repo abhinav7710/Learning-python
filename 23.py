@@ -1,4 +1,4 @@
-#printing numbers 1-10 by while loop
+#printing numbers 0-10 by while loop
 
 i=0
 while i < 11:
