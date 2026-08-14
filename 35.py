@@ -1,4 +1,4 @@
-#Trying basicquestions based on string slicing and indexing
+#Trying basic questions based on string slicing and indexing
 print("Q1.question on string slicing and indexing")
 print("Given text = "python programming" ,do the following:")
 print("Print the first 6 characters")
