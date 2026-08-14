@@ -1,6 +1,6 @@
 #Learning string methods
-name = "I'M ABHINAV"
-name2 = "i'm abhinav"
+name = " I'M ABHINAV "
+name2 = " i'm abhinav "
 print(len(name))
 print(len(name2))
 print("changing case")
