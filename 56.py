@@ -1,0 +1,13 @@
+#Trying a function based question
+'''Write a function increment() that has a local variable counter initialized to
+0 and increments it by 1 each time it is called. Observe whether the value
+persists across function calls'''
+
+counter = 0
+def increment():
+    global counter
+    counter +=1
+    return counter
+print(increment())
+print(increment())
+
