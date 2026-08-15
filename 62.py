@@ -8,6 +8,6 @@ print(my_list.pop())
 (my_list.reverse())
 (my_list.sort())
 
-# List Comprehensions (Efficient List Creation)
+# List comprehensions (Efficient list creation)
 squared = [x**2 for x in range(5)]
 print(squared)
