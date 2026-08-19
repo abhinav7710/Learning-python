@@ -9,4 +9,4 @@ def repeat(n):
 @repeat(3)
 def greet(name):
     print(f"Hello, {name}")
-greet("abhinav")            
+greet("abhinav")
