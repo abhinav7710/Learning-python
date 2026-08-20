@@ -1,6 +1,6 @@
 #Learning static and class methods
 class Employee:
-    company = "HP"
+    company = "realme"
     def __init__(self, name, salary):
         self.name = name 
         self.salary = salary
@@ -35,5 +35,5 @@ e2 = Employee("Jill", 34355)
 
 # print(e2.sum(5, 23))
 print(Employee.company)
-e1.change_company("Acer")
+e1.change_company("Asus")
 print(Employee.company)
