@@ -1,5 +1,5 @@
 #Learning maps
-numbers = [1, 2, 3, 45, 4, 21]
+numbers = [81, 76, 54, 32, 2011, 99]
 
 def square(x):
     return x * x
