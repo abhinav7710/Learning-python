@@ -1,0 +1,8 @@
+#Learning else
+try:
+    a = 345/10
+except Exception as e:
+    print(e)
+#gets executed when there is no error in the try block
+else:
+    print("hello world")    
