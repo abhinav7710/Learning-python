@@ -1,6 +1,6 @@
 #Learning filters
-# def is_greater_than_9(x):
-#     if x>9:
+# def sq_is_less_than(x)):
+#     if x*x<100:
 #         return True
 #     else:
 #         return False
